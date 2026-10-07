@@ -1,1 +1,16 @@
+# Minecraft / launcher
+*.log
+*.jar
+.minecraft/
+instances/
+.cache/
+.modrinth/
 
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.idea/
+.vscode/
+*.swp
