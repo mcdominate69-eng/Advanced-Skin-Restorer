@@ -1,0 +1,31 @@
+BadOptimizations: https://modrinth.com/mod/badoptimizations
+
+Dynamic FPS: https://modrinth.com/mod/dynamic-fps
+
+Entity Culling: https://modrinth.com/mod/entityculling
+
+FPS Reducer: https://modrinth.com/mod/fps-reducer
+
+Fabric API: https://modrinth.com/mod/fabric-api # Core or compulsary mod.
+
+Fabric Language Kotlin: https://modrinth.com/mod/fabric-language-kotlin
+
+FerriteCore: https://modrinth.com/mod/ferrite-core
+
+ImmediatelyFast: https://modrinth.com/mod/immediatelyfast
+
+Lithium: https://modrinth.com/mod/lithium
+
+Mod Menu: https://modrinth.com/mod/modmenu
+
+ServerCore: https://modrinth.com/mod/servercore
+
+Skin Restorer: https://modrinth.com/mod/skinrestorer # Main mod to restore skins.
+
+skin overrides: https://modrinth.com/mod/skin-overrides # Upload your own skin. Therefore, others can't see unless they have the mod.
+
+Sodium: https://modrinth.com/mod/sodium
+
+Text Placeholder API: https://modrinth.com/mod/placeholder-api
+
+spark: https://modrinth.com/mod/spark
