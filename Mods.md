@@ -16,9 +16,7 @@
 | ImmediatelyFast | [Modrinth](https://modrinth.com/mod/immediatelyfast) |
 | Entity Culling | [Modrinth](https://modrinth.com/mod/entityculling) |
 | FerriteCore | [Modrinth](https://modrinth.com/mod/ferrite-core) |
-| Dynamic FPS | [Modrinth](https://modrinth.com/mod/dynamic-fps) |
 | BadOptimizations | [Modrinth](https://modrinth.com/mod/badoptimizations) |
-| FPS Reducer | [Modrinth](https://modrinth.com/mod/fps-reducer) |
 | ServerCore | [Modrinth](https://modrinth.com/mod/servercore) |
 | Spark | [Modrinth](https://modrinth.com/mod/spark) |
 
