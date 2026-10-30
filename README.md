@@ -3,6 +3,7 @@
 A lightweight Fabric modpack focused on **reliable skin restoration** (especially useful for cracked/offline-mode players) + strong performance optimizations.
 
 **Modrinth**: [https://modrinth.com/modpack/advanced-skin-restorer](https://modrinth.com/modpack/advanced-skin-restorer)
+
 **CurseForge**: [https://www.curseforge.com/minecraft/modpacks/advanced-skin-restorer/](https://www.curseforge.com/minecraft/modpacks/advanced-skin-restorer)
 
 ---
